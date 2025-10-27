@@ -32,19 +32,21 @@
         }
     },
     "Larry": {
-        "rating": 1180.0,
-        "games": 1,
+        "rating": 1160.96,
+        "games": 2,
         "pb": 1200,
         "season_history": {
-            "Season Alpha": 1180.0
+            "Season Alpha": 1180.0,
+            "Season Beta": 1160.96
         }
     },
     "Mick": {
-        "rating": 1220.0,
-        "games": 1,
-        "pb": 1220.0,
+        "rating": 1239.04,
+        "games": 2,
+        "pb": 1239.04,
         "season_history": {
-            "Season Alpha": 1220.0
+            "Season Alpha": 1220.0,
+            "Season Beta": 1239.04
         }
     }
 }
