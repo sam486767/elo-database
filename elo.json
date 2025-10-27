@@ -1,5 +1,5 @@
 {
-    "example_player": 1200,
-    "Sam": 1216.0,
-    "John": 1184.0
+    "example_player": { "rating": 1200.0, "games": 0 }
+    "Sam": { "rating": 1216.0, "games": 1 }
+    "John": { "rating": 1184.0, "games": 1 }
 }
