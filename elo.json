@@ -30,5 +30,21 @@
         "season_history": {
             "Season Alpha": 1136.56
         }
+    },
+    "Larry": {
+        "rating": 1180.0,
+        "games": 1,
+        "pb": 1200,
+        "season_history": {
+            "Season Alpha": 1180.0
+        }
+    },
+    "Mick": {
+        "rating": 1220.0,
+        "games": 1,
+        "pb": 1220.0,
+        "season_history": {
+            "Season Alpha": 1220.0
+        }
     }
 }
