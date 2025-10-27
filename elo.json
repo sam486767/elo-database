@@ -16,19 +16,19 @@
         }
     },
     "John": {
-        "rating": 1175.14,
-        "games": 4,
-        "pb": 1175.14,
+        "rating": 1198.63,
+        "games": 5,
+        "pb": 1198.63,
         "season_history": {
-            "Season Alpha": 1175.14
+            "Season Alpha": 1198.63
         }
     },
     "Zak": {
-        "rating": 1182.49,
-        "games": 1,
+        "rating": 1159.0,
+        "games": 2,
         "pb": 1200,
         "season_history": {
-            "Season Alpha": 1182.49
+            "Season Alpha": 1159.0
         }
     }
 }
