@@ -1,14 +1,18 @@
 {
     "example_player": {
-        "rating": 1200.0,
-        "games": 0
+        "rating": 1181.43,
+        "games": 1,
+        "pb": 1200.0,
+        "season_history": {
+            "Season Alpha": 1181.43
+        }
     },
     "Sam": {
-        "rating": 1224.86,
-        "games": 4,
+        "rating": 1243.43,
+        "games": 5,
         "pb": 1252.69,
         "season_history": {
-            "Season Alpha": 1224.86
+            "Season Alpha": 1243.43
         }
     },
     "John": {
