@@ -4,11 +4,19 @@
         "games": 0
     },
     "Sam": {
-        "rating": 1252.69,
-        "games": 3
+        "rating": 1224.86,
+        "games": 4,
+        "pb": 1252.69,
+        "season_history": {
+            "Season Alpha": 1224.86
+        }
     },
     "John": {
-        "rating": 1147.31,
-        "games": 3
+        "rating": 1175.14,
+        "games": 4,
+        "pb": 1175.14,
+        "season_history": {
+            "Season Alpha": 1175.14
+        }
     }
 }
