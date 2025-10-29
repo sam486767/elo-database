@@ -10,22 +10,22 @@
         }
     },
     "Sam": {
-        "rating": 1200,
-        "games": 24,
+        "rating": 1240.0,
+        "games": 25,
         "pb": 1399.06,
         "season_history": {
             "Season Alpha": 1312.06,
-            "Season Beta": 1200,
+            "Season Beta": 1240.0,
             "Season 1": 1200
         }
     },
     "John": {
-        "rating": 1200,
-        "games": 21,
+        "rating": 1160.0,
+        "games": 22,
         "pb": 1220.77,
         "season_history": {
             "Season Alpha": 1189.95,
-            "Season Beta": 1200,
+            "Season Beta": 1160.0,
             "Season 1": 1200
         }
     },
