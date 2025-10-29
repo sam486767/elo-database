@@ -11,7 +11,7 @@
     },
     "Sam": {
         "rating": 1200,
-        "games": 0,
+        "games": 23,
         "pb": 1399.06,
         "season_history": {
             "Season Alpha": 1312.06,
@@ -21,7 +21,7 @@
     },
     "John": {
         "rating": 1200,
-        "games": 0,
+        "games": 20,
         "pb": 1220.77,
         "season_history": {
             "Season Alpha": 1189.95,
@@ -31,7 +31,7 @@
     },
     "Zak": {
         "rating": 1200,
-        "games": 0,
+        "games": 5,
         "pb": 1200,
         "season_history": {
             "Season Alpha": 1136.56,
@@ -41,7 +41,7 @@
     },
     "Larry": {
         "rating": 1200,
-        "games": 0,
+        "games": 4,
         "pb": 1200,
         "season_history": {
             "Season Alpha": 1180.0,
@@ -51,7 +51,7 @@
     },
     "Mick": {
         "rating": 1200,
-        "games": 0,
+        "games": 3,
         "pb": 1239.04,
         "season_history": {
             "Season Alpha": 1220.0,
